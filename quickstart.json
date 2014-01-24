@@ -1,0 +1,11 @@
+{
+      "name": "Ghost",
+      "default_app_name": 'ghost',
+      "git_repo_url": "https://github.com/openshift-quickstart/openshift-ghost-quickstart.git",
+      "cartridges": ["nodejs-0.10"],
+      "website": "http://tryghost.org/",
+      "version": "0.4",
+      "env_variables": {"name1":"value1","name2":"value2"},
+      "tags": ["node.js","ghost","blog"],
+      "description": "Ghost is a free, open, simple blogging platform that's available to anyone who wants to use it"
+    }
